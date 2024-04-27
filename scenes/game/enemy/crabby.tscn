@@ -91,7 +91,7 @@ var _stop_detection = false
 # Vandera de no detectar ataques
 var _stop_attack = false
 # Cuantas veces aguanta
-var _hit_to_die = 3
+@export var _hit_to_die = 3
 # Cuantas veces pegaron al personaje principal
 var _has_hits = 0
 # La muerte del cangrejo
