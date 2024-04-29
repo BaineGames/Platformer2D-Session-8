@@ -939,7 +939,7 @@ offset_right = 490.0
 offset_bottom = 23.0
 theme_override_fonts/font = ExtResource("27_eb3si")
 theme_override_font_sizes/font_size = 20
-text = "Arrows ← y → "
+text = "A and D"
 
 [node name="Row2" type="Control" parent="Main/GameControls/Background/Texts"]
 anchors_preset = 0
@@ -987,7 +987,7 @@ offset_right = 490.0
 offset_bottom = 23.0
 theme_override_fonts/font = ExtResource("27_eb3si")
 theme_override_font_sizes/font_size = 20
-text = "Key X"
+text = "Key F"
 
 [node name="Row4" type="Control" parent="Main/GameControls/Background/Texts"]
 anchors_preset = 0
